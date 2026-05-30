@@ -1,6 +1,6 @@
 # Graph Drawing
 
-`graphdrawing.html` is a browser-based interactive tool for drawing line-based figures and converting them into graphs. It is designed to support classroom exploration of Euler paths by turning a student's sketch into a graph whose vertices occur at start points, end points, and crossing points. Because the tool is contained in a single HTML file, it can be used locally in a browser or hosted through GitHub Pages for easy student access.
+`index.html` is a browser-based interactive tool for drawing line-based figures and converting them into graphs. It is designed to support classroom exploration of Euler paths by turning a student's sketch into a graph whose vertices occur at start points, end points, and crossing points. Because the tool is contained in a single HTML file, it can be used locally in a browser or hosted through GitHub Pages for easy student access.
 
 ## What the tool does
 
@@ -65,9 +65,9 @@ This lets students begin with an informal drawing and then see how graph-theoret
 
 ### Launch to tool
 
-1. Download `graphdrawing.html` and open it in a modern web browser (to run locally).
+1. Download `index.html` and open it in a modern web browser (to run locally).
    or
-   Access the tool at https://relationshapez.github.io/graphdrawing/ (to run remotely).
+   Access the tool at https://relationshapez.github.io/graph_drawing/ (to run remotely).
 2. Draw directly on the canvas.
 3. Switch to **Trace** mode to test a continuous path through the graph.
 4. Use **Reveal Result** to check whether the graph has an Euler path, an Euler circuit, or neither.
